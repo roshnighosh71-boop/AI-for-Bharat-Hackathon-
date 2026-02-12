@@ -5,6 +5,7 @@
 The system follows a client-server architecture with AI integration.
 
 User Mobile App 
+
         ↓
         
 Google Maps / GPS API
@@ -75,4 +76,5 @@ Stores:
 - Prescription upload & validation
 - Drone/express delivery integration
 - Advanced AI analytics
+
 
