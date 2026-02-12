@@ -6,14 +6,21 @@ The system follows a client-server architecture with AI integration.
 
 User Mobile App 
         ↓
+        
 Google Maps / GPS API
+
         ↓
+        
 Backend Server (Node.js / Express)
+
         ↓
 Database (MongoDB / MySQL)
+
         ↓
 Notification Service
+
         ↑
+        
 Pharmacy Dashboard
 
 ## 2. Component Description
@@ -68,3 +75,4 @@ Stores:
 - Prescription upload & validation
 - Drone/express delivery integration
 - Advanced AI analytics
+
